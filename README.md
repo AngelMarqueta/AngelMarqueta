@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ángel G. Marqueta Alonso
 
-<!--
-**AngelMarqueta/AngelMarqueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante del Máster en Big Data Deportivo de Sports Data Campus, en Zaragoza. Desarrollo proyectos de analítica de fútbol con datos públicos y visualizaciones para explicar lo que ocurre dentro y fuera del campo.
 
-Here are some ideas to get you started:
+## Línea de pase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi espacio de análisis de datos en fútbol: proyectos, visualizaciones y vídeos con explicaciones claras.
+
+[Visita Línea de pase](https://lineadepase.github.io/)
+
+### Proyectos
+
+- **Real Zaragoza 2026/27:** seguimiento y análisis del equipo con datos públicos.
+- **Fútbol femenino en España:** análisis de las licencias y su distribución territorial.
+- **Vídeos divulgativos:** conceptos de analítica de fútbol, como los goles esperados (xG).
+
+## Formación y aprendizaje
+
+- Máster en Big Data Deportivo · Sports Data Campus (en curso).
+- Analítica de fútbol, datos abiertos y visualización.
+
+[Repositorio de Big Data Deportivo](https://github.com/AngelMarqueta/Big_Data_Deportivo_Marqueta)
+
+## Enlaces
+
+- [Portfolio · Línea de pase](https://lineadepase.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/angel-marqueta-alonso-a8831164/)
+- [Facebook · Línea de pase](https://www.facebook.com/profile.php?id=61594945036383)
